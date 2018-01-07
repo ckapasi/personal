@@ -1,0 +1,1 @@
+sorted( ((v,k) for k,v in d.iteritems()), reverse=True)
