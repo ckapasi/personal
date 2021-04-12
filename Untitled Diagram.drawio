@@ -1,68 +1,68 @@
-<mxfile modified="2021-04-12T13:35:01.114Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GGoJRJ7OvySkAgHs7f6i" version="14.5.8" type="github">
+<mxfile modified="2021-04-12T13:44:22.630Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="y81ECsXMLE3G2EWFAPKg" version="14.5.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1439.5" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1544.5" y="37" width="539" height="1080" as="geometry" />
+          <mxGeometry x="1080" y="38" width="539" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-36" value="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1563" y="49.5" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="49.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-37" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="100" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="100" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-38" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="148" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="148" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-39" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="200" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="200" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-40" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="263" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="249" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-41" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="352" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="327.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-42" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="399.5" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="380" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-43" value="8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1563" y="449" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="436.5" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-44" value="9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1564" y="494.5" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="490" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Solution Design" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="36.5" y="26.5" width="240" height="40" as="geometry" />
+          <mxGeometry x="-400" y="37" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-6" value="&lt;span&gt;User connects to Web URL using the DNS service provided by Amazon S3&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1615.5" y="49.5" width="449" height="50.5" as="geometry" />
+          <mxGeometry x="1140" y="49.5" width="449" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-7" value="&lt;span&gt;User gets static images on the website through Edge servers provided by Amazon cloudfront .Static images are available in S3 Bucket&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1617.5" y="100" width="450" height="50" as="geometry" />
+          <mxGeometry x="1140" y="98" width="450" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-9" value="&lt;span&gt;User is autheniticated either using public authentication like google or facebook or SAML using the Amazon cognito option.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1617.5" y="150" width="450" height="40" as="geometry" />
+          <mxGeometry x="1140" y="148" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-10" value="User connection to a webserver is made via Elastic load balancetr which offloadd SSL certificate using Amazon certificate manager.Elastic balancer takes care of loadbalancing." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1617.5" y="200" width="450" height="50" as="geometry" />
+          <mxGeometry x="1139.5" y="194" width="450" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-11" value="&lt;span&gt;Once user request is made to the loadbalancer it automatically routes to best webserver and this request is served by HTTPS .Once the connection is made to a&amp;nbsp; webserver and app managed by Elastic beanstalk it serves the request and does any database query to Amazon MySQL RDS .&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1617.5" y="263" width="449" height="87" as="geometry" />
+          <mxGeometry x="1139.5" y="249" width="470.5" height="87" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-12" value="Monitoring is ensured using Amazon Cloudwatch" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1617.5" y="357" width="450" height="28" as="geometry" />
+          <mxGeometry x="1138" y="336" width="450" height="28" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-13" value="&lt;span&gt;Securiity is ensured by IAM and MFA authentication provided by AWS cloud.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1614.5" y="399.5" width="449" height="40.5" as="geometry" />
+          <mxGeometry x="1138" y="380" width="449" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-14" value="Autoscaling of EC2 instances is taken care by Elastic beanstalk&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1614.5" y="454.5" width="449" height="25.5" as="geometry" />
+          <mxGeometry x="1140" y="449" width="449" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-15" value="Backups of RDS DB Data is done to S3 Bucket and older data is passed to S3 Glacier." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1614.5" y="494.5" width="449" height="35.5" as="geometry" />
+          <mxGeometry x="1141" y="491.25" width="449" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="_9B2pnNq8bpqkfTlN1mw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jZVaUwOg5UY3L9NAnvdq-60" target="_9B2pnNq8bpqkfTlN1mw-20">
           <mxGeometry relative="1" as="geometry">
@@ -282,16 +282,28 @@
           <mxGeometry x="-70" y="867" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_9B2pnNq8bpqkfTlN1mw-131" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1563" y="547" width="40" height="38" as="geometry" />
+          <mxGeometry x="1090" y="550" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="_9B2pnNq8bpqkfTlN1mw-132" value="Logs are tracked using Cloudtrail" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1614.5" y="547" width="449" height="35.5" as="geometry" />
+          <mxGeometry x="1139" y="549" width="449" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="_9B2pnNq8bpqkfTlN1mw-134" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="114.5" y="177" width="885.5" height="873" as="geometry" />
         </mxCell>
         <mxCell id="_9B2pnNq8bpqkfTlN1mw-135" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="36.5" y="138" width="1023.5" height="972" as="geometry" />
+        </mxCell>
+        <mxCell id="_9B2pnNq8bpqkfTlN1mw-136" value="11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="602" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="_9B2pnNq8bpqkfTlN1mw-137" value="Disastor recovery is taken care by virtue of two availability zones used by Elastic beanstalk.Standby database is also present in another availability zone.&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="604.5" width="449" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_9B2pnNq8bpqkfTlN1mw-138" value="12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="662" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="_9B2pnNq8bpqkfTlN1mw-139" value="Messaged to end user are sent using Amazon SNS.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="662" width="449" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
